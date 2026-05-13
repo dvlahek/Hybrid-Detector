@@ -15,15 +15,6 @@ Other values of \(\alpha\), \(\beta\), and \(\gamma\) are provided only for expl
 
 > Important: the **Synthetic zeta-zero test function** is a controlled toy example with zeta-zero ordinates built in as exact zeros. It is **not** the true Riemann \(\Xi\) function or a high-precision Hardy \(Z\) implementation.
 
-## Live demo on GitHub Pages
-
-This repository is ready for GitHub Pages. After pushing it to GitHub:
-
-1. Open the repository on GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment**, choose **GitHub Actions** as the source.
-4. Push to the `main` branch.
-5. The workflow in `.github/workflows/pages.yml` will publish the static site.
 
 The site will be available at:
 
