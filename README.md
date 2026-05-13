@@ -98,19 +98,7 @@ hybrid-detector-lab-v1/
     └── PAPER_ALIGNMENT.md
 ```
 
-## Quick Git commands
-
-```bash
-git init
-git add .
-git commit -m "Release version 1.0.0"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<repository-name>.git
-git push -u origin main
-```
-
-Then enable GitHub Pages with GitHub Actions in the repository settings.
 
 ## Citation
 
-If you use this demo in teaching, presentation, or research discussion, please cite the accompanying paper and/or this repository. A `CITATION.cff` file is included.
+If you use this demo in teaching, presentation, or research discussion, please cite the accompanying paper and/or this repository. Paper is currently in review.
