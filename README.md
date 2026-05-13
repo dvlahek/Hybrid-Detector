@@ -19,7 +19,7 @@ Other values of \(\alpha\), \(\beta\), and \(\gamma\) are provided only for expl
 The site is available at:
 
 ```text
-[https://<your-github-username>.github.io/<repository-name>/](https://dvlahek.github.io/Hybrid-Detector/)
+https://dvlahek.github.io/Hybrid-Detector/
 ```
 
 Therefore, an internet connection is required unless you replace the CDN script with a local Plotly bundle.
