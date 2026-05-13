@@ -16,22 +16,10 @@ Other values of \(\alpha\), \(\beta\), and \(\gamma\) are provided only for expl
 > Important: the **Synthetic zeta-zero test function** is a controlled toy example with zeta-zero ordinates built in as exact zeros. It is **not** the true Riemann \(\Xi\) function or a high-precision Hardy \(Z\) implementation.
 
 
-The site will be available at:
+The site is available at:
 
 ```text
-https://<your-github-username>.github.io/<repository-name>/
-```
-
-GitHub Pages supports publishing static files from a branch or by using a GitHub Actions workflow. The entry file for a Pages site should be named `index.html`, `index.md`, or `README.md` at the top level of the published artifact.
-
-## Local use
-
-Open `index.html` directly in a browser.
-
-The demo uses Plotly from a CDN:
-
-```html
-https://cdn.plot.ly/plotly-2.35.2.min.js
+[https://<your-github-username>.github.io/<repository-name>/](https://dvlahek.github.io/Hybrid-Detector/)
 ```
 
 Therefore, an internet connection is required unless you replace the CDN script with a local Plotly bundle.
@@ -69,25 +57,6 @@ The demo stays close to the paper’s framework:
 - optional interpretation of stable candidates as persistent multiscale valleys.
 
 The sign-change check is an auxiliary diagnostic only. It is not the main detector.
-
-## Repository structure
-
-```text
-hybrid-detector-lab-v1/
-├── index.html
-├── README.md
-├── LICENSE
-├── CITATION.cff
-├── CHANGELOG.md
-├── VERSION
-├── .gitignore
-├── .github/
-│   └── workflows/
-│       └── pages.yml
-└── docs/
-    ├── USER_GUIDE.md
-    └── PAPER_ALIGNMENT.md
-```
 
 
 ## Citation
